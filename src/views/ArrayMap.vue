@@ -1,5 +1,5 @@
 <template>
-    <div class="container text-center">
+    <div class="text-center container">
         <div class="offset-lg-4 col-lg-4 extra-space">
             <h3>Dane początkowe</h3>
             <b-list-group>
@@ -108,8 +108,5 @@
 </script>
 
 <style scoped>
-    .extra-space {
-        margin-top: 15px;
-        margin-bottom: 15px;
-    }
+
 </style>
